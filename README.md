@@ -14,10 +14,6 @@ Initial Repository Content:
 
 \- README.md (main documentation)
 
-\- Core application files
-
-\- Configuration files
-
 \- Feature-related files
 
 
