@@ -12,9 +12,9 @@ This repository is created as part of a practical examination  to evaluate stude
 
 Initial Repository Content:
 
-\- README.md
+\- README.md (main documentation)
 
-\- Additional files will be added during development
+\- Feature-related files
 
 
 
